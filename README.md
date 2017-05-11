@@ -20,6 +20,14 @@ ra$h is a custom *nix shell written in the C programming language. The shell loo
 	
 ## Compiling
 Running the makefile in the top-level directory will compile the individual commands as well as the shell itself. The individual commands will be placed in the custom bin directory which the shell points to.
+
+#### Dependencies
+ - make
+     - ```sudo apt-get install make```
+ - gcc
+     - ```sudo apt-get install gcc```
+ - libreadline-dev
+     - ```sudo apt-get install libreadline-dev```
 	
 ## Usage
 
