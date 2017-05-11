@@ -52,8 +52,8 @@ ls -l /home -a
     - **-r** Recursively copy the target directory
 
 ## To-do
--[ ] Learn why the shell crashes when hitting enter with no input provided, and fix.
--[ ] Add more optional arguments to the commands.
+-[ ]Learn why the shell crashes when hitting enter with no input provided, and fix.  
+-[ ]Add more optional arguments to the commands.
 
 ## History
 
